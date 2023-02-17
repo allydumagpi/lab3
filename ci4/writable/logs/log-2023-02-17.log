@@ -1,0 +1,22 @@
+CRITICAL - 2023-02-17 00:36:04 --> Call to undefined function link_tag()
+in APPPATH\Views\templates\header.php on line 4.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('templates/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(24): view('templates/header', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('home')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-17 00:39:40 --> include(form.php): failed to open stream: No such file or directory
+in APPPATH\Views\pages\about.php on line 227.
+ 1 APPPATH\Views\pages\about.php(227): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(form.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\pages\\about.php', 227, [...])
+ 2 APPPATH\Views\pages\about.php(227): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\about.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('pages/about', [], true)
+ 6 APPPATH\Controllers\Pages.php(25): view('pages/about')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('about')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
