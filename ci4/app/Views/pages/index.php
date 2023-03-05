@@ -20,7 +20,7 @@
 
 	<!---header--->
 	<header>
-		<a href="/lab3/ci4/public/index" style ="color:#fff; font-size: 20px;" >アセ | ルシアン</a>
+		<a href="/~adumagpi/lab3/ci4/public/index" style ="color:#fff; font-size: 20px;" >アセ | ルシアン</a>
 		<div class="bx bx-menu" id="menu-icon"></div>
 		
 		<ul class="navbar">
@@ -213,7 +213,7 @@
 			</div>
 		</div>
 
-			<a href="/lab3/ci4/public/guest/create" class="btn btn2">Go to Commission Entry Page (❁´◡`❁) </a>
+			<a href="/~adumagpi/lab3/ci4/public/guest/create" class="btn btn2">Go to Commission Entry Page (❁´◡`❁) </a>
 			<br>
 			<br>
 			<br>
