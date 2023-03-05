@@ -109,3 +109,7 @@ in SYSTEMPATH\Security\Security.php on line 306.
  6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
 INFO - 2023-02-28 14:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-02-28 14:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-28 14:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-28 14:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-28 14:34:30 --> CSRF token verified.
+INFO - 2023-02-28 14:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

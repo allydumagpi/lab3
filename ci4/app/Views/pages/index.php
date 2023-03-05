@@ -20,7 +20,7 @@
 
 	<!---header--->
 	<header>
-		<a href="#" class="logo"><img src="img/logo.png"></a>
+		<a href="/lab3/ci4/public/index" style ="color:#fff; font-size: 20px;" >アセ | ルシアン</a>
 		<div class="bx bx-menu" id="menu-icon"></div>
 		
 		<ul class="navbar">
@@ -213,25 +213,17 @@
 			</div>
 		</div>
 
-		<div class="contact-form">
-          <!-- --------Form------------ -->
-        
-            <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
-            <input type="text" name="name" placeholder="Enter Your Name" required>
-            <input type="email" name="email" placeholder="Enter Your Email" required>
-            <input type="subject" name="subject placeholder="Enter Your Subject">
-            <textarea name="comment" rows="6" placeholder="Enter Your Message"></textarea>
-            <input type="submit" value="Submit" class="send">
-            </form>
-
-           
-            
+			<a href="/lab3/ci4/public/guest/create" class="btn btn2">Go to Commission Entry Page (❁´◡`❁) </a>
+			<br>
+			<br>
+			<br>
+              
         </div>
       </div>
 		
 	</section>
 	
-
+	
 	<!---scroll-top--->
 	<a href="#" class="top"><i class='bx bx-up-arrow-alt' ></i></a>
 
