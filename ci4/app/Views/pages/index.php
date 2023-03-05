@@ -213,7 +213,7 @@
 			</div>
 		</div>
 
-			<a href="/lab3/ci4/public/guest/create" class="btn btn2">Go to Commission Entry Page (❁´◡`❁) </a>
+			<a href="/lab3/ci4/public/guest/create" class="btn btn2">Go to Commision Entry Page (❁´◡`❁) </a>
 			<br>
 			<br>
 			<br>
@@ -222,7 +222,6 @@
       </div>
 		
 	</section>
-	
 	
 	<!---scroll-top--->
 	<a href="#" class="top"><i class='bx bx-up-arrow-alt' ></i></a>
