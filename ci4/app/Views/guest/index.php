@@ -18,17 +18,17 @@
 
 	<!---header--->
 	<header>
-		<a href="/lab3/ci4/public/index" style ="color:#fff; font-size: 20px;" >アセ | ルシアン</a>
+		<a href="/~adumagpi/lab3/ci4/public/index" style ="color:#fff; font-size: 20px;" >アセ | ルシアン</a>
 		<div class="bx bx-menu" id="menu-icon"></div>
 		<br>
         <br>
         <br>
 		<ul class="navbar">
-			<li><a href="/lab3/ci4/public/index#home">Home</a></li>
-			<li><a href="/lab3/ci4/public/index#about">About Me</a></li>
-			<li><a href="/lab3/ci4/public/index#commissions">Commissions</a></li>
-			<li><a href="/lab3/ci4/public/index#portfolio">Artworks</a></li>
-			<li><a href="/lab3/ci4/public/guest/create">Contact Me</a></li>
+			<li><a href="/~adumagpi/lab3/ci4/public/index#home">Home</a></li>
+			<li><a href="/~adumagpi/lab3/ci4/public/index#about">About Me</a></li>
+			<li><a href="/~adumagpi/lab3/ci4/public/index#commissions">Commissions</a></li>
+			<li><a href="/~adumagpi/lab3/ci4/public/index#portfolio">Artworks</a></li>
+			<li><a href="/~adumagpi/lab3/ci4/public/guest/create">Contact Me</a></li>
 		</ul>
 		</header>
 
